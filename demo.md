@@ -8,3 +8,5 @@
 7.开发mapper.xml层
 
 有model，mapper，controller，jdbc的properties配置就可以完成数据库和idea链接功能
+
+
