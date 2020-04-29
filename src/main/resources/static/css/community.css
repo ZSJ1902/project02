@@ -32,6 +32,10 @@ body {
     margin-top: 15px;
 }
 
+.question_title{
+    margin-top: 25px;
+}
+
 .community-menu {
     font-size: 13px;
     color: #999;
